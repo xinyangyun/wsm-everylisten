@@ -87,6 +87,7 @@
     </dependencies>
 
     <build>
+        <finalName>wsm-listen</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
